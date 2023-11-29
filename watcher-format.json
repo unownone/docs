@@ -1,0 +1,5 @@
+{
+  "WATCHER_URL": 'https://raw.githubusercontent.com/shopware/shopware/trunk/src/Core/Framework/Resources/config/packages/framework.yaml',
+  "WATCHER_HASH": "007d0a0b2d9ed8db6f484980b9a29459",
+  "WATCHER_CONTAINS": "html_sanitizer"
+}
